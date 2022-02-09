@@ -9,7 +9,7 @@ tc1
     sleep   3
     press keys  //body   ENTER
     sleep   5
-#    reload page
+    reload page
 #    sleep  3
 #    input text  //input[@name='q']  hanumantharaju tv
 #    press key  //body   ENTER
